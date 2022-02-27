@@ -1,0 +1,103 @@
+@import url("https://fonts.googleapis.com/css2?family=Pirata+One&display=swap");
+
+#contenedor {
+  background-color: white;
+  height: auto;
+}
+
+/* parte del header*/
+#cabecera {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+#botonera {
+  background-color: rgb(49, 49, 49);
+}
+
+/* parte de los section*/
+#section_tripulacion {
+  background-color: aqua;
+  height: auto;
+}
+
+#section_luffy {
+  background-color: red;
+  height: auto;
+}
+
+#section_zoro {
+  background-color: rgb(24, 160, 6);
+  height: auto;
+}
+
+#section_sanji {
+  background-color: rgb(255, 230, 0);
+  height: auto;
+}
+#section_nami {
+  background-color: blue;
+  height: auto;
+}
+#section_usopp {
+  background-color: rgb(120, 255, 79);
+  height: auto;
+}
+#section_chopper {
+  background-color: rgb(255, 166, 0);
+  height: auto;
+}
+
+#section_franky {
+  background-color: rgb(0, 162, 255);
+  height: auto;
+}
+#section_robin {
+  background-color: rgb(204, 0, 255);
+  height: auto;
+}
+#section_brook {
+  background-color: rgb(180, 180, 180);
+  height: auto;
+}
+#section_jinbe {
+  background-color: rgb(132, 0, 255);
+  height: auto;
+}
+
+#pie {
+  background-color: rgb(153, 153, 153);
+  height: auto;
+  margin-top: 30px;
+  padding-top: 10px;
+}
+
+.bg-color-perso {
+  background-color: rgb(49, 49, 49);
+}
+
+section {
+  text-align: center;
+}
+.texto {
+  font-size: 80px;
+  color: rgb(0, 0, 0);
+  font-family: "Pirata One", cursive;
+}
+
+.texto2 {
+  font-size: 20px;
+  color: rgb(0, 0, 0);
+  font-family: "Pirata One", cursive;
+  margin-bottom: 30px;
+}
+
+#centrarUl {
+  text-align: center;
+}
+
+footer,
+footer div button {
+  margin-bottom: 10px;
+}

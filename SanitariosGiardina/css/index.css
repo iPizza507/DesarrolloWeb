@@ -1,0 +1,23 @@
+.bg-color{
+    background: rgb(82, 185, 253);
+}
+
+.itemHover:hover{
+    background: rgb(63, 153, 212);
+    border-radius: 5%;
+}
+
+.footer{
+    background-color: black;
+    height: auto;
+}
+
+.imagenesGriferia{
+    width: 100%;
+}
+
+#navBarTop{
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
