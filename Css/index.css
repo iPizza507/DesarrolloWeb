@@ -8,3 +8,9 @@ footer {
   background-color: rgb(216, 212, 212);
   border-radius: 5%;
 }
+.section-carrousel{
+  background-color: rgb(216, 212, 212);
+}
+.header-text-navbar{
+  margin-right: 30px;
+}
