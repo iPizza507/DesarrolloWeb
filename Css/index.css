@@ -14,3 +14,32 @@ footer {
 .header-text-navbar{
   margin-right: 30px;
 }
+.svgIcon{
+  background-color: transparent;
+  width: 30px;
+  height: 30px;
+  color: black;
+  margin: 0 10px;
+}
+.imgDeCarrousel{
+  height: 600px;
+}
+#navbarSupportedContent h4{
+  margin: 0 20px;
+}
+@media all and (min-width: 700px) and (max-width: 1023px) {
+  .divTitle{
+    display: none;
+  } 
+  .imgDeCarrousel{
+    height: 400px;
+  }
+}
+@media all and (max-width: 699px) {
+  .divTitle, .divTitle span h1, .divTitle span p{
+    display: none;
+  }
+  .imgDeCarrousel{
+    height: 200px;
+  }
+}
